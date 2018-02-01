@@ -1,0 +1,1 @@
+Worked on an app that allows users to pre-order food at partnered restaurants. Constructed time-distance algorithms that provides: information on restaurants within a certain radius, time needed to walk to selected restaurant and optimal time to collect food
